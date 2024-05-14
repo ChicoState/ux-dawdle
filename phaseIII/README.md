@@ -7,6 +7,7 @@ Throughout each phase, the goal of our project is to create a DAWS program that 
 ## Methods
 
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
+During the third phase, our UX team utilized a usability test plan, a draft protocol, and an IRB submission, these are important because they will be used to create specific criteria and collect data that will be useful when updating our prototypes. Using the wireframes from phase II the goal is to create working prototypes that will allow the user to interact and navigate through the software. The purpose of the usability test plan and draft protocol is to create criteria that will be used when determining candidates; this will be helpful during the testing phase of our prototype. The biggest difference is that the Protocol will be more fleshed out in the sense that it will be used during the testing of our prototype and will be used to write down results and data. All questions and tasks are necessary and will be relevant to the software. The goal is to provide our users with easy-to-use software, and by collecting testing data on our prototypes the team can learn what worked and did not work during the test of the prototypes.
 
 ### Usability Test Plan
 
