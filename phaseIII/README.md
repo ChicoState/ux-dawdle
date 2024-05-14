@@ -119,17 +119,17 @@ General Feedback
     
 Task 1 
   - Success: 6/7 
-  - Difficulty: 3.9 +- 0.5 
+  - Difficulty: (M=3.9, sd=0.5)
   - Difficult to find the save option located in the file menu. The file menu isn't easily recognized as a menu. Appears to be a logo.
     
 Task 2 
   - Success: 7/7 
-  - Difficulty: 4.0 +- 0.4 
+  - Difficulty: (M=4.0, sd=0.4)
   - Unclear how modifying the special effects interacts with other features in the app. Needs better user feedback. The slider only represents 0 or 100 but nothing in between. Some users found the slider menu intrusive and wished for it to be adjustable so other things could be displayed on the screen simultaneously
     
 Task 3 
   - Success: 7/7 
-  - Difficulty: 4.6 +- 0.2 
+  - Difficulty: (M=4.6, sd=0.2)
   - People generally liked this feature. No negative comments.
     
 [Spreadsheet](<https://chicostate.github.io/ux-dawdle/phaseIII/User Test Data Collection - DAWdle.pdf>)
