@@ -109,7 +109,8 @@ Participant Experience:
   4. 6 Years of experience with LMMS, FL Studio 
   5. 2 years of experience with Garage Band, various others 
   6. 13 years experience with FL Studio, Ableton 
-  7. About a week's worth of experience with FL Studio 
+  7. About a week's worth of experience with FL Studio
+
 General Feedback 
   - Needs more visual feedback 
   - Needs better call to action. Eyes not drawn to features 
