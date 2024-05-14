@@ -7,6 +7,7 @@ Throughout each phase, the goal of our project is to create a DAWS program that 
 ## Methods
 
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
+
 During the third phase, our UX team utilized a usability test plan, a draft protocol, and an IRB submission, these are important because they will be used to create specific criteria and collect data that will be useful when updating our prototypes. Using the wireframes from phase II the goal is to create working prototypes that will allow the user to interact and navigate through the software. The purpose of the usability test plan and draft protocol is to create criteria that will be used when determining candidates; this will be helpful during the testing phase of our prototype. The biggest difference is that the Protocol will be more fleshed out in the sense that it will be used during the testing of our prototype and will be used to write down results and data. All questions and tasks are necessary and will be relevant to the software. The goal is to provide our users with easy-to-use software, and by collecting testing data on our prototypes the team can learn what worked and did not work during the test of the prototypes.
 
 ### Usability Test Plan
@@ -67,7 +68,7 @@ Debrief and Conclusion:
 
 [IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
 
-For the background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allowed the team to gauge the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
+For the background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allowed the team to gauge the usability of the product for new users picking up this type of software for the first time and users who have used this type of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
   - How many years have you been using DAW software?
   - Do you have more experience with digital DAWS or physical DAWS?
@@ -75,32 +76,32 @@ For the background questions, the intent was to gain perspective on what kind of
   - Which digital DAWS have you used?
   - What were you trying to accomplish?
 
-For our tasks, we tried to create a scenario for each of the main features of out product. This includes the sound bit, song creation, and special effects tools to see how the user's mental model compares to their conceptual model. We also wanted to guage features such as save, loading, and the creation of new instances of these features. For these tasks, we asked them to evaluate the task on a scale from 1 to 5, 1 being very difficult, and 5 being very easy.
+For our tasks, we tried to create a scenario for each of the main features of our product. This includes the sound bit, song creation, and special effects tools to see how the user's mental model compares to their conceptual model. We also wanted to gauge features such as saving, loading, and the creation of new instances of these features. For these tasks, we asked them to evaluate the task on a scale from 1 to 5, 1 being very difficult, and 5 being very easy.
 - Tasks:
   - Imagine you would like to make a sound clip that you could later use to modify for the creation of a song. See if you can navigate to the sound clip creation tool, create a sound clip, and save the sound clip.
     - This question was to evaluate the creation of a new sound clip, the visibility of the save option, and the usability of the keyboard layout used to create sound clips. 
   - Imagine that you have already created a sound clip and want to modify it with different special effects. See if you can navigate to the special effects tool, load a sound clip, and modify an existing sound clip.
-    - This question was to evaluate the special effects tool, the visibility of the load option, and slider method used for adding special effects to a sound clip.
+    - This question was to evaluate the special effects tool, the visibility of the load option, and the slider method used for adding special effects to a sound clip.
   - Imagine you have an idea for a song you’d like to make. See if you can navigate to the song creation tool and create a song using sound clips.
-    - This question was intended to have the user put everything they've learned in previous task to accomplish creating a song.
+    - This question was intended to have the user put everything they've learned in previous tasks to accomplish creating a song.
 - Debrief:
   - Were you able to complete your tasks?
-    - This was to guage if the user felt like they were able to complete the tasks and see if they were getting the appropriate feedback from the software.
+    - This was to gauge if the user felt like they were able to complete the tasks and see if they were getting the appropriate feedback from the software.
   - Which tasks did you find the most difficult?
-    - This was to discover which areas of the product would be improve in future iterations.
+    - This was to discover which areas of the product would be improved in future iterations.
   - Which tasks did you find the least difficult?
-    - This was to discover which areas were the easiest to use in the hopes we could take things that worked from these areas and replicate them to make other feature easier for the user.
+    - This was to discover which areas were the easiest to use in the hopes we could take things that worked from these areas and replicate them to make other features easier for the user.
   - If you’ve used DAW software previously, how does it compare to your experience today?
     - This was to get a comparison of our product to products used in our shared market space.
   - Are there any changes you would recommend?
-    - This was to get the opinion of the user of how changes can be made to better suit their needs.
+    - This was to get the opinion of the user on how changes can be made to better suit their needs.
 
 ### Evaluation Approach
-When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to give the user the opportunity to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this types of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
+When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to allow the user to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this type of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
 For evaluation, we took a summative approach, recording whether or not the task was completed and how difficult they found the task, using a 5-point Likert scale, resulting in quantitative data. We also asked the user a series of questions relating to how they felt about the tasks, resulting in qualitative data.
 
 ## Findings
-<!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
+<!--!!! For each research method, detail each of the findings point-by-point to clarify discoveries of users' needs !!!-->
 ### Data Summary
 Participant Experience: 
   1. 3 years of experience in FL Studio, Garage Band, Vacuum Track 
@@ -141,4 +142,4 @@ The biggest uniting factor across all the test users’ suggestions was that we 
 
 <!--!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
 
-During this study, we were limited on our user base, given we could only get users that were part of our class and didn't have control over screening a userbase that would reflect our desired demographic. Given that the students are all part of a UX team, they are more likely to be familiar with standard in the field and not entirely representative of the average user. If the test pool were made up of music undergrads, then perhaps we would have gotten more meaningful feedback to take back to our SE team. Because with our test pool we were limited to people who used DAWs as part of a hobby, and not their career. 
+During this study, we were limited in our user base, given we could only get users who were part of our class and didn't have control over screening a user base that would reflect our desired demographic. Given that the students are all part of a UX team, they are more likely to be familiar with standards in the field and not entirely representative of the average user. If the test pool were made up of music undergrads, then perhaps we would have gotten more meaningful feedback to take back to our SE team. Because with our test pool, we were limited to people who used DAWs as part of a hobby, and not their career. 
