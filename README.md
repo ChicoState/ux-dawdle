@@ -76,13 +76,20 @@ The objective of our project is to create a DAWS program that is easily accessib
   * How satisfied are users with using the app to complete certain tasks  
 * Draft protocol
   * Similar to Usability
-  * used during testing to collect data through feedback from users and visual indicators
-  * gives users tasks that they must complete
+  * Welcomes and thanks participants, clarifies what they will be doing
+  * obtains information about their previous experiences, expectations, etc
+  * sets up problems and observes their behavior throughout the test
+  * Wrap-up questions allow final feedback to understand if the prototype was effective
 * Test Pilots  
   * allows the team to do a run-through of the project to complete last-minute altercations
   * Ensures that the data we are collecting is relevant to the test
 * IRB Submission  
- * 
+ * Final submission of necessary information needed to gather test data
+ * proves that the group is taking proper precautions when gathering sensitive data.
+ * contains:
+ * Informed consent form
+ * Each member's certificate of completing the CITI Human Subjects in Research training
+ * Finalized protocol script
 
   
 [Full phase III report](phaseIII/)
