@@ -102,30 +102,34 @@ For evaluation, we took a summative approach, recording whether or not the task 
 ## Findings
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
 ### Data Summary
-Participant Experience:
-  1. 3 years of experience in FL Studio, Garage Band, Vacuum Track
-  2. Some experience with Logic Pro, Ableton, FL Studio
-  3. No experience
-  4. 6 Years of experience with LMMS, FL Studio
-  5. 2 years of experience with Garage Band, various others
-  6. 13 years experience with FL Studio, Ableton
-  7. About a week's worth of experience with FL Studio
-General Feedback
-  - Needs more visual feedback
-  - Needs better call to action. Eyes not drawn to features
-  - Needs visual feedback on which feature currently in use
-Task 1
-  - Success: 6/7
-  - Difficulty: 3.9 +- 0.5
-  - Difficult to find the save option located in the file menu. File menu isn't easily recognized as a menu. Appears to be a logo.
-Task 2
-  - Success: 7/7
-  - Difficulty: 4.0 +- 0.4
-  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween. Some users found the slider menu intrusive and wished for it to be adjustable so other things could be displayed on the screen simultaneously
-Task 3
-  - Success: 7/7
-  - Difficulty: 4.6 +- 0.2
+Participant Experience: 
+  1. 3 years of experience in FL Studio, Garage Band, Vacuum Track 
+  2. Some experience with Logic Pro, Ableton, FL Studio 
+  3. No experience 
+  4. 6 Years of experience with LMMS, FL Studio 
+  5. 2 years of experience with Garage Band, various others 
+  6. 13 years experience with FL Studio, Ableton 
+  7. About a week's worth of experience with FL Studio 
+General Feedback 
+  - Needs more visual feedback 
+  - Needs better call to action. Eyes not drawn to features 
+  - Needs visual feedback on which feature is currently in use
+    
+Task 1 
+  - Success: 6/7 
+  - Difficulty: 3.9 +- 0.5 
+  - Difficult to find the save option located in the file menu. The file menu isn't easily recognized as a menu. Appears to be a logo.
+    
+Task 2 
+  - Success: 7/7 
+  - Difficulty: 4.0 +- 0.4 
+  - Unclear how modifying the special effects interacts with other features in the app. Needs better user feedback. The slider only represents 0 or 100 but nothing in between. Some users found the slider menu intrusive and wished for it to be adjustable so other things could be displayed on the screen simultaneously
+    
+Task 3 
+  - Success: 7/7 
+  - Difficulty: 4.6 +- 0.2 
   - People generally liked this feature. No negative comments.
+    
 [Spreadsheet](<https://chicostate.github.io/ux-dawdle/phaseIII/User Test Data Collection - DAWdle.pdf>)
 
 ## Conclusions
