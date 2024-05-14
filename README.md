@@ -71,9 +71,9 @@ The objective of our project is to create a DAWS program that is easily accessib
   * Helps specify what screening criteria will be used to ensure that participants are good candidates to complete tests.
   * Describes how the tests are designed for the study.    
  - Tests can explore how well the users can do the following:  
-  * Ability to complete different tasks (effectiveness) in different situations
-  * How efficiently can users complete the tasks
-  * How satisfied are users with using the app to complete certain tasks  
+   * Ability to complete different tasks (effectiveness) in different situations
+   * How efficiently can users complete the tasks
+   * How satisfied are users with using the app to complete certain tasks  
 * Draft protocol
   * Similar to Usability
   * Welcomes and thanks participants, clarifies what they will be doing
@@ -84,12 +84,12 @@ The objective of our project is to create a DAWS program that is easily accessib
   * allows the team to do a run-through of the project to complete last-minute altercations
   * Ensures that the data we are collecting is relevant to the test
 * IRB Submission
- * Final submission of necessary information needed to gather test data
- * proves that the group is taking proper precautions when gathering sensitive data.
- * contains:
- * Informed consent form
- * Each member's certificate of completing the CITI Human Subjects in Research training
- * Finalized protocol script
+  * Final submission of necessary information needed to gather test data
+  * proves that the group is taking proper precautions when gathering sensitive data.
+  * contains:
+  * Informed consent form
+  * Each member's certificate of completing the CITI Human Subjects in Research training
+  * Finalized protocol script
 
   
 [Full phase III report](phaseIII/)
