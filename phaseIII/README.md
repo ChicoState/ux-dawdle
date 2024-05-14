@@ -97,12 +97,10 @@ For our tasks, we tried to create a scenario for each of the main features of ou
 
 ### Evaluation Approach
 When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to give the user the opportunity to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this types of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
-For evaluation, we took a summative approach, recording whether or not the task was completed and how difficult they found the task, using a 5-point likert scale, resulting in quantitative date. We also asked the user a series of questions relating to how they felt about the tasks, resulting in qualitative data.
+For evaluation, we took a summative approach, recording whether or not the task was completed and how difficult they found the task, using a 5-point Likert scale, resulting in quantitative data. We also asked the user a series of questions relating to how they felt about the tasks, resulting in qualitative data.
 
 ## Findings
-
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
-
 ### Data Summary
 Participant Experience:
   1. 3 years of experience in FL Studio, Garage Band, Vacuum Track
@@ -110,29 +108,25 @@ Participant Experience:
   3. No experience
   4. 6 Years of experience with LMMS, FL Studio
   5. 2 years of experience with Garage Band, various others
-
+  6. 13 years experience with FL Studio, Ableton
+  7. About a week's worth of experience with FL Studio
 General Feedback
   - Needs more visual feedback
   - Needs better call to action. Eyes not drawn to features
   - Needs visual feedback on which feature currently in use
-
 Task 1
-  - Success: 4/5
-  - Difficulty: 3.6 +- 1.3
+  - Success: 6/7
+  - Difficulty: 3.9 +- 0.5
   - Difficult to find the save option located in the file menu. File menu isn't easily recognized as a menu. Appears to be a logo.
-
 Task 2
-  - Success: 5/5
-  - Difficulty: 4.0 +- 0.8
-  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween.
-
+  - Success: 7/7
+  - Difficulty: 4.0 +- 0.4
+  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween. Some users found the slider menu intrusive and wished for it to be adjustable so other things could be displayed on the screen simultaneously
 Task 3
-  - Success: 5/5
-  - Difficulty: 4.4 +- 0.5
+  - Success: 7/7
+  - Difficulty: 4.6 +- 0.2
   - People generally liked this feature. No negative comments.
-
 [Spreadsheet](<https://chicostate.github.io/ux-dawdle/phaseIII/User Test Data Collection - DAWdle.pdf>)
-
 
 ## Conclusions
 
