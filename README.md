@@ -83,7 +83,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 * Test Pilots  
   * allows the team to do a run-through of the project to complete last-minute altercations
   * Ensures that the data we are collecting is relevant to the test
-* IRB Submission  
+* IRB Submission
  * Final submission of necessary information needed to gather test data
  * proves that the group is taking proper precautions when gathering sensitive data.
  * contains:
