@@ -136,7 +136,7 @@ Task 3
 
 ## Conclusions
 
-The biggest uniting factor across all the test users’ suggestions was that we need to make it more clear what feature is currently being used, as well as certain elements being highlighted more like the save menu. In the future, more colors being present in the finished product will help differentiate between the different modes and features present in our product.
+Many of the users desired more visual feedback on the state of the application while using, including things such as, showing which tool is currently being used, and call to action for important features. The file menu isn't as visible as it needs to be as many usered missed where it was and took a while to find it. The special effects too doesn't give feedback that allows the user to understand how it's interacting with songs or sound clips. Users generally like the song creation tool and no recommendations were given to improve it.
 
 ## Caveats
 
