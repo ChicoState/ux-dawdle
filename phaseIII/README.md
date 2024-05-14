@@ -134,7 +134,7 @@ Task 3
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The biggest uniting factor across all the test users’ suggestions was that we need to make it more clear what feature is currently being used, as well as certain elements being highlighted more like the save menu. In the future, more colors being present in the finished product will help differentiate between the different modes and features present in our product.
 
 ## Caveats
 
