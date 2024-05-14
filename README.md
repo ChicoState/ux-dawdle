@@ -75,8 +75,15 @@ The objective of our project is to create a DAWS program that is easily accessib
   * How efficiently can users complete the tasks
   * How satisfied are users with using the app to complete certain tasks
 * Draft protocol
+ * Similar to Usability
+ * used during testing to collect data through feedback from users and visual indicators
+ * gives users tasks that they must complete
+* Test Pilots
+ * allows the team to do a run-through of the project to complete last-minute altercations
+ * Ensures that the data we are collecting is relevant to the test
  * 
 * IRB Submission
+ * 
 
   
 [Full phase III report](phaseIII/)
