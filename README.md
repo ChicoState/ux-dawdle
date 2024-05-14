@@ -66,23 +66,22 @@ The objective of our project is to create a DAWS program that is easily accessib
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!-->
-* Usability Test plan
+* Usability Test plan  
   * Allows the team to write specific objectives of things the team wants to learn from the users, this can be completed through their direct feedback AND by observing their behavior.
   * Helps specify what screening criteria will be used to ensure that participants are good candidates to complete tests.
-  * Describes how the tests are designed for the study.
-* Tests can explore how well the users can do the following:
+  * Describes how the tests are designed for the study.    
+ - Tests can explore how well the users can do the following:  
   * Ability to complete different tasks (effectiveness) in different situations
   * How efficiently can users complete the tasks
-  * How satisfied are users with using the app to complete certain tasks
+  * How satisfied are users with using the app to complete certain tasks  
 * Draft protocol
- * Similar to Usability
- * used during testing to collect data through feedback from users and visual indicators
- * gives users tasks that they must complete
-* Test Pilots
- * allows the team to do a run-through of the project to complete last-minute altercations
- * Ensures that the data we are collecting is relevant to the test
- * 
-* IRB Submission
+  * Similar to Usability
+  * used during testing to collect data through feedback from users and visual indicators
+  * gives users tasks that they must complete
+* Test Pilots  
+  * allows the team to do a run-through of the project to complete last-minute altercations
+  * Ensures that the data we are collecting is relevant to the test
+* IRB Submission  
  * 
 
   
